@@ -1,6 +1,6 @@
 ## Hi There 👋🏽, 
 
-I'm a fullstack Software Engineer and Mobile Developer from Nigeria.
+I'm a fullstack Software Engineer and Mobile Developer from Lagos, Nigeria.
 
 - 🔭 Working on multiple frontend and backend projects using ReactJS and NodeJS
 - 🔭 Working on mobile app projects using react-native
@@ -24,3 +24,8 @@ I'm a fullstack Software Engineer and Mobile Developer from Nigeria.
 <img align="left" alt="react" src="https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress%20-%230070A0.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-blue.svg?&style=for-the-badge&logo=python&logoColor=yellow" />
+
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
