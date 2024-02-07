@@ -1,10 +1,10 @@
 ## Hi There 👋🏽, 
 
-I'm a fullstack Software Engineer and Mobile Developer from Lagos, Nigeria.
+I'm a full-stack Software Engineer and Mobile Developer from Lagos, Nigeria.
 
 - 🔭 Working on multiple frontend and backend projects using ReactJS and NodeJS
 - 🔭 Working on mobile app projects using react-native
-- 🌱 Learning design patterns indepth
+- 🌱 Learning design patterns in-depth
 <br>
 
 ## Connect with me
